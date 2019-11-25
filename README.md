@@ -1,2 +1,2 @@
-# Mathfinal
-course project
+# Math_8650_final_project
+Graph Coloring
